@@ -6,7 +6,8 @@ We are a team of researchers, students, and community members from [Princeton](h
 
 If you would like to get involved, we invite you get in touch at `ipe.paradiseinstitute@gmail.com`.
 
-Towards Infinite Bliss,
+Towards Infinite Bliss,  
+
 IPE
 
 December 5th, 2020
